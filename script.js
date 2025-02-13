@@ -359,7 +359,7 @@ style.innerHTML = `
         color: #5a0e41;
         padding: 12px 16px;
         border-radius: 12px;
-        font-size: 2rem;
+        font-size: 1rem;
         font-weight: bold;
         text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
         box-shadow: 0px 0px 15px rgba(255, 182, 193, 0.9);
