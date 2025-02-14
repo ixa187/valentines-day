@@ -173,6 +173,7 @@ const photoSources = [
     "images/love8.jpg",
     "images/love9.jpg",
     "images/love10.jpg",
+    "images/10.jpg"
 ];
 
 function createFloatingHeart() {
