@@ -203,6 +203,7 @@ const photoMessages = [
     "Wana gi kilig nako hahaha",
     "More pictures like this hehe",
     "More mirror shots like this also",
+    "Puhon abroad na nga bus or train ato masakyan hahah",
     "More roller coaster rides hahaha",
     "Disneyland na ang next destination",
     "I got your back always byyy, I LOVE YOU",
