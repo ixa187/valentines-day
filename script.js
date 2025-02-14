@@ -198,16 +198,15 @@ const photoMessages = [
     "Smile future Architect 📐",
     "Always follow your dreams, I'm always here to support you.🌟",
     "Soon we can travel the world together🌍",
-    "I love you to the moon and back! 🌙",
-    "I love you to the moon and back! 🌙",
-    "I love you to the moon and back! 🌙",
-    "I love you to the moon and back! 🌙",
-    "I love you to the moon and back! 🌙",
-    "I love you to the moon and back! 🌙",
-    "I love you to the moon and back! 🌙",
-    "I love you to the moon and back! 🌙",
-    "I love you to the moon and back! 🌙",
-
+    "I miss kissing you",
+    "Can't wait to hug you soon",
+    "Wana gi kilig nako hahaha",
+    "More pictures like this hehe",
+    "More mirror shots like this also",
+    "More roller coaster rides hahaha",
+    "Disneyland na ang next destination",
+    "I got your back always byyy, I LOVE YOU",
+    "Forever yours, Daddy Jade hehe",
 ];
 
 function createFloatingPhoto() {
