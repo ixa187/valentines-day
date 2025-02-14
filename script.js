@@ -173,7 +173,8 @@ const photoSources = [
     "images/love8.jpg",
     "images/love9.jpg",
     "images/love10.jpg",
-    "images/10.jpg"
+    "images/10.jpg",
+    "images/bby.jpg",
 ];
 
 function createFloatingHeart() {
@@ -210,6 +211,7 @@ const photoMessages = [
     "I got your back always byyy, I LOVE YOU",
     "Forever yours, Daddy Jade hehe",
     "HAPPY VALENTINE'S DAY BABY",
+    "SEE YOU SOON BABY",
 ];
 
 function createFloatingPhoto() {
