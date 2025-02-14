@@ -208,6 +208,7 @@ const photoMessages = [
     "Disneyland na ang next destination",
     "I got your back always byyy, I LOVE YOU",
     "Forever yours, Daddy Jade hehe",
+    "HAPPY VALENTINE'S DAY BABY",
 ];
 
 function createFloatingPhoto() {
